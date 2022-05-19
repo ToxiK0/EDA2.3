@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="..\..\PlantacaoEDA2.0\PlantacaoEDA2.0\ficheiros.cpp" />
+    <ClCompile Include="..\..\PlantacaoEDA2.0\PlantacaoEDA2.0\main.cpp" />
+    <ClCompile Include="..\..\PlantacaoEDA2.0\PlantacaoEDA2.0\plantacao.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
